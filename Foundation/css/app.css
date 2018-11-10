@@ -1,0 +1,46 @@
+.backgroundbody {
+  background: url(../img/fondo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+  height: 100%;
+  float: left;
+  font-size: 12px;
+  display: block;
+}
+
+.container{
+  background-color: white;
+  /* filter: opacity(0.8); */
+}
+
+.colnav{
+  padding: 5px;
+}
+
+.colorfon{
+  background-color: rgb(177 217 210);
+  filter: opacity(1);
+}
+
+.colorfon2{
+  background-color: rgb(250 215 159);
+  filter: opacity(1);
+}
+
+.icons{
+  font-size: 46px;
+}
+
+.imgcoment{
+  height: 50px;
+  width: 50px;
+}
+.imgfav{
+  weight: 50%;
+}
+
+.div h5{
+  margin-left: 2%;
+}

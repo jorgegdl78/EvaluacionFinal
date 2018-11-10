@@ -1,0 +1,11 @@
+.backgroundbody {
+  background: url(../img/gdlok.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+  height: 100%;
+  float: left;
+  font-size: 12px;
+  display: block;
+}
